@@ -1,0 +1,5 @@
+genome,n_hits,n_unique_genes,classes,status
+genome_A,4,4,AMINOGLYCOSIDE;BETA-LACTAM;FOSFOMYCIN;PHENICOL,ok
+genome_B,3,3,AMINOGLYCOSIDE;BETA-LACTAM;QUINOLONE,ok
+genome_C_no_hits,0,0,,no_hits
+genome_D_empty,0,0,,failed

@@ -1,0 +1,6 @@
+gene,class,genome_A,genome_B,genome_C_no_hits
+aph(3')-IIb,AMINOGLYCOSIDE,1,1,0
+blaOXA-50,BETA-LACTAM,1,1,0
+catB7,PHENICOL,1,0,0
+crpP,QUINOLONE,0,1,0
+fosA,FOSFOMYCIN,1,0,0

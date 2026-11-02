@@ -1,0 +1,6 @@
+gene,class,n_genomes,percent_genomes
+aph(3')-IIb,AMINOGLYCOSIDE,2,66.7
+blaOXA-50,BETA-LACTAM,2,66.7
+catB7,PHENICOL,1,33.3
+crpP,QUINOLONE,1,33.3
+fosA,FOSFOMYCIN,1,33.3
