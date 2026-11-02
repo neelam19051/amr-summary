@@ -1,0 +1,6 @@
+Files read: 4
+Usable genomes: 3
+Failed files: 1
+Genomes with no AMR hits: 1
+
+genome_D_empty: file is empty (0 bytes)
