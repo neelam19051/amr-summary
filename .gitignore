@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+amr_summary_output/
+results/
+.DS_Store
